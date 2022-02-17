@@ -1,0 +1,169 @@
+{
+  "task": [
+    {
+      "id": 1640156291824,
+      "listId": "SeoList-3",
+      "task": "keyword research",
+      "assign": "Mithilesh Dangre",
+      "team": "SEO"
+    },
+    {
+      "id": 1645073730639,
+      "listId": "devList-1",
+      "task": "Task application",
+      "assign": "Aditya Jain",
+      "team": "Development"
+    },
+    {
+      "id": 1645073799007,
+      "listId": "devList-2",
+      "task": "Ringcentral Clone",
+      "assign": "Ankit Shahu",
+      "team": "Development"
+    },
+    {
+      "id": 1645073871166,
+      "listId": "devList-3",
+      "task": "TOT",
+      "assign": "Ankit Shahu",
+      "team": "Development"
+    }
+  ],
+  "list": [
+    {
+      "id": "devList-1",
+      "title": "Next Up",
+      "bgColor": "#30bfbf",
+      "team": "Development"
+    },
+    {
+      "id": "devList-2",
+      "title": "In Progress",
+      "bgColor": "#00aaff",
+      "team": "Development"
+    },
+    {
+      "id": "devList-3",
+      "title": "Review",
+      "bgColor": "#fac400",
+      "team": "Development"
+    },
+    {
+      "id": "devList-4",
+      "title": "Done",
+      "bgColor": "#8ACC47",
+      "team": "Development"
+    },
+    {
+      "id": "SeoList-1",
+      "title": "Next Up",
+      "bgColor": "#30bfbf",
+      "team": "SEO"
+    },
+    {
+      "id": "SeoList-2",
+      "title": "In Progress",
+      "bgColor": "#00aaff",
+      "team": "SEO"
+    },
+    {
+      "id": "SeoList-3",
+      "title": "Review",
+      "bgColor": "#fac400",
+      "team": "SEO"
+    },
+    {
+      "id": "SeoList-4",
+      "title": "Done",
+      "bgColor": "#8ACC47",
+      "team": "SEO"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1640152208036,
+      "fullName": "Aditya Jain",
+      "designation": "Frontend Dev",
+      "team": "Development",
+      "email": "adityaj.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "1"
+    },
+    {
+      "id": 1640152272186,
+      "fullName": "Ankit Shahu",
+      "designation": "Wordpress Developer",
+      "team": "Development",
+      "email": "ankits.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "2"
+    },
+    {
+      "id": 1640152316240,
+      "fullName": "Sunil Chaudhary",
+      "designation": "Seo Specialist",
+      "team": "SEO",
+      "email": "sunilc.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "3"
+    },
+    {
+      "id": 1640152655904,
+      "fullName": "Ankita Dambhare",
+      "designation": "PHP Developer",
+      "team": "Development",
+      "email": "ankita.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "5"
+    },
+    {
+      "id": 1640770219330,
+      "fullName": "Amitabh Bachchan",
+      "designation": "Seo Specialist",
+      "team": "SEO",
+      "email": "srbachchan@demo.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "9"
+    },
+    {
+      "id": 1640772919999,
+      "fullName": "Mithilesh Dangre",
+      "designation": "Sr. Developer",
+      "team": "SEO",
+      "email": "mithilesh.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "3"
+    },
+    {
+      "id": 1641450995857,
+      "fullName": "Prasika Ganvir",
+      "designation": "SEO",
+      "team": "SEO",
+      "email": "prasika.nonstop@gmail.com",
+      "pass": "123456",
+      "cPass": "123456",
+      "uid": "1",
+      "photo": {}
+    }
+  ],
+  "admin": [
+    {
+      "id": "admin-1",
+      "adminName": "Pritam Shinde",
+      "adminEmail": "pritamshinde.success@gmail.com",
+      "adminPass": "123456"
+    },
+    {
+      "id": "admin-2",
+      "adminName": "Vikram Shinde",
+      "adminEmail": "vikramshinde@gmail.com",
+      "adminPass": "123456"
+    }
+  ]
+}
